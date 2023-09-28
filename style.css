@@ -42,7 +42,7 @@ nav li a:hover{
 }
 .banner{
     height: 100vh;
-    background: linear-gradient( rgba(110, 71, 71, 0.281), rgba(143, 81, 81, 0.308)),url('fundo-de-textura-padrao-de-marmore-preto-marmore-da-tailandia-marmore-natural-abstrato-em-preto-e-branco-para-design_1253-917.avif');
+    background: linear-gradient( rgba(110, 71, 71, 0.281), rgba(143, 81, 81, 0.308)),url('');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
