@@ -144,3 +144,15 @@ footer {
     text-decoration: none;
     transition: background-color 0.3s, color 0.3s;
 }
+.banner2{
+    display: inline-block;
+    background-color: rgb(182, 182, 182);
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 20px 20px;
+    font-size: 24px;
+    font-weight: 500;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s;
+    }
