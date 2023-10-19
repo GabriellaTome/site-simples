@@ -135,7 +135,7 @@ footer {
 .banner1{
     display: inline-block;
     background-color: rgb(124, 171, 214);
-    color: rgb(148, 5, 5);
+    color: rgb(0, 0, 0);
     border: none;
     padding: 10px 20px;
     font-size: 25px;
