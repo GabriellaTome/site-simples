@@ -47,8 +47,8 @@ nav li a:hover{
     background-position: center;
     background-repeat: no-repeat;
     display: flex;
-    align-items: center;
-    justify-content: up;
+    align-items: up;
+    justify-content: center;
     text-align: center;
 }
 .texto .titulo{
